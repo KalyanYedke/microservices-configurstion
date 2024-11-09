@@ -6,3 +6,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka
   instance:
     prefer-p-address: true
+
+#sudo mongod --dbpath=/Users/admin/data/db
